@@ -10,3 +10,5 @@ pip install sseclient
 pip install pycrypto
 pip install pycryptodome
 pip install PIL
+pip install json
+pip install requests
