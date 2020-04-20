@@ -13,4 +13,5 @@ pip install PIL
 pip install json
 pip install requests
 pip install twilio
+# pip install pillow
 
