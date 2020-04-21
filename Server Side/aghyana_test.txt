@@ -1,0 +1,23 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDienGaKvTKGuSgKIFsU1pupYC1DABpeYk",
+    authDomain: "aghanya-test-py.firebaseapp.com",
+    databaseURL: "https://aghanya-test-py.firebaseio.com",
+    projectId: "aghanya-test-py",
+    storageBucket: "aghanya-test-py.appspot.com",
+    messagingSenderId: "356482709357",
+    appId: "1:356482709357:web:eeb1790474348ca3660c64",
+    measurementId: "G-MGVHBRZDTV"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
