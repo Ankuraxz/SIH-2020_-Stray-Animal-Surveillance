@@ -18,5 +18,7 @@ pip install requests
 pip install twilio
 # pip install pillow
 pip install pyrebase4
-pip install oycryptodomex
+pip install pycryptodomex
+
+#after installing pycryptodomex, change "Crypto.publickey" in pyrebase.py (pyrebase4 lib), to "Cryptodome.publickey" 
 
