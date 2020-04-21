@@ -1,3 +1,6 @@
+pip install --upgrade pip
+pip install --upgrade setuptools
+pip install --upgrade wheel,twine
 pip install azure-cognitiveservices-vision-customvision 
 pip install secure-smtplib
 pip install selenium
@@ -5,13 +8,15 @@ pip install email
 pip install firebase
 pip install python-jwt
 pip install gcloud
-pip install firebase-admin
+#pip install firebase-admin
 pip install sseclient
-pip install pycrypto
-pip install pycryptodome
+#pip install pycrypto
+#pip install pycryptodome
 pip install PIL
 pip install json
 pip install requests
 pip install twilio
 # pip install pillow
+pip install pyrebase4
+pip install oycryptodomex
 
