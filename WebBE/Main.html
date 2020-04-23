@@ -14,7 +14,7 @@
     	<ol id='list'>
     		
     	</ol>
-        <script type="text/javascript">
+        <script type="text/javascript"> 
         	const firebaseConfig = {
 			  apiKey: "AIzaSyDienGaKvTKGuSgKIFsU1pupYC1DABpeYk",
 			  authDomain: "aghanya-test-py.firebaseapp.com",
@@ -25,10 +25,10 @@
 			  appId: "1:356482709357:web:ba6a50f651806c23660c64",
 			  measurementId: "G-688BED1Y8M"
 			};
-			const x = 'Camera1_feed';
+			const x = 'Camera1_feed'; //issue1: should iterate over all the folders and hence variable
 			firebase.initializeApp(firebaseConfig);
-			const database = firebase.database();
-			const ref = database.ref(x);
+			const database = firebase.database(); //firebase object
+			const ref = database.ref(x); //ref to folder from object
 			ref.on('value',a1,a2);
 
 			function a1(data){
