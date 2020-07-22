@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <!-- <link rel="stylesheet" href="style.css" /> -->
+        <script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-app.js"></script>
+  		<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-analytics.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-auth.js"></script>
+  		<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-firestore.js"></script>
+  		<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-storage.js"></script>
+  		<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-database.js"></script>
+  		<style> 
+        .tab { 
+            display: inline-block; 
+            margin-left: 40px; 
+        } 
+    	</style>
+    </head>
+    <body>
+    	<script type="text/javascript">
+    		document.write("Location of cam1 - 29.123,29.321" + "<br>");
+    	</script>
+    	<div class = 'a'>
+    	</div>
+        <script type="text/javascript">
+        	const firebaseConfig = {
+			  apiKey: "AIzaSyDienGaKvTKGuSgKIFsU1pupYC1DABpeYk",
+			  authDomain: "aghanya-test-py.firebaseapp.com",
+			  databaseURL: "https://aghanya-test-py.firebaseio.com",
+			  projectId: "aghanya-test-py",
+			  storageBucket: "aghanya-test-py.appspot.com",
+			  messagingSenderId: "356482709357",
+			  appId: "1:356482709357:web:ba6a50f651806c23660c64",
+			  measurementId: "G-688BED1Y8M"
+			};
+
+			firebase.initializeApp(firebaseConfig);
+			const database = firebase.database();
+			const ref = database.ref('cam1');
+			ref.on('value',gotData,errData);
+			function gotData(data){
+				var bla = data.val();
+				var keys = Object.keys(bla);
+				for(var i=0;i<keys.length;i++){
+					var Prob = bla[keys[i]].Probability;
+					var Tag = bla[keys[i]].tag;
+					var D = bla[keys[i]].Date;
+					var Time = bla[keys[i]].Time;
+					var a = document.createElement('a');
+					a.innerHTML ="Probability - " + Prob + " Tag - " + Tag + " Date - "+ D + " Time - " + Time + '<br>';
+					document.body.append(a);
+				}
+				c2();
+
+			}
+			function errData(err){
+				console.log('error');
+			}
+			function c2(){
+			var a = document.createElement('a');
+			a.innerHTML = "Location of cam2 - 29.234,29.432" + "<br>"
+			document.body.append(a);
+			c3();
+			}
+			function c3(){
+			var a = document.createElement('a');
+			a.innerHTML = "Location of cam3 - 29.124,29.421" + "<br>"
+			document.body.append(a);
+			}
+        </script>
+    </body>
+</html>
