@@ -1,0 +1,88 @@
+{
+  "Cam_info" : {
+    "cam1" : "29.965223,76.887212",
+    "cam2" : "29.965243,76.868683",
+    "cam3" : "29.965109,76.875464",
+    "cam4" : "29.964275,76.865226"
+  },
+  "cam1" : {
+    "-MCq1_hgACT4N50ugViX" : {
+      "Date" : "2020-07-22",
+      "Probability" : 92.30376,
+      "Time" : "15:50:09",
+      "tag" : "Cow"
+    },
+    "-MCq25RgGkJYiqg43bQM" : {
+      "Date" : "2020-07-22",
+      "Probability" : 92.30376,
+      "Time" : "15:52:25",
+      "tag" : "Cow"
+    },
+    "-MCq30l2wV01szeYvFbO" : {
+      "Date" : "2020-07-22",
+      "Probability" : 82.48608,
+      "Time" : "15:56:26",
+      "tag" : "Cow"
+    },
+    "-MCq4NlOegVCCyWPWrLI" : {
+      "Date" : "2020-07-22",
+      "Probability" : 82.48608,
+      "Time" : "16:02:25",
+      "tag" : "Cow"
+    },
+    "-MCq4_oI5-jQebFAUKFA" : {
+      "Date" : "2020-07-22",
+      "Probability" : 69.73486,
+      "Time" : "16:03:12",
+      "tag" : "Cow"
+    },
+    "-MCq4gCikXjq9InMfvJN" : {
+      "Date" : "2020-07-22",
+      "Probability" : 75.74537,
+      "Time" : "16:03:40",
+      "tag" : "Cow"
+    },
+    "-MD3iw3MeaoyaQ4sMvo-" : {
+      "Date" : "2020-07-25",
+      "Probability" : 97.72922000000001,
+      "Time" : "12:18:36",
+      "tag" : "Cow"
+    },
+    "-MD3jycQ6P6kO7Po7Vtv" : {
+      "Date" : "2020-07-25",
+      "Probability" : 97.72922000000001,
+      "Time" : "12:23:06",
+      "tag" : "Cow"
+    },
+    "-MD3kh7-Ai5XaEvuu0Q-" : {
+      "Date" : "2020-07-25",
+      "Probability" : 97.72922000000001,
+      "Time" : "12:24:49",
+      "tag" : "Cow"
+    }
+  },
+  "cam2" : {
+    "-MD3inHVxiB5EHLawB9b" : {
+      "Date" : "2020-07-25",
+      "Probability" : 94.4934547,
+      "Time" : "12:17:58",
+      "tag" : "Cow"
+    }
+  },
+  "cam3" : {
+    "-MD3hTvagK907CG6UnzF" : {
+      "Date" : "2020-07-25",
+      "Probability" : 94.4934547,
+      "Time" : "12:12:13",
+      "tag" : "Cow"
+    }
+  },
+  "cam4" : {
+    "-MD3gBEsWbkTSYwJh95D" : {
+      "Date" : "2020-07-25",
+      "Probability" : 92.3037648,
+      "Time" : "12:06:33",
+      "tag" : "Cow"
+    }
+  }
+}
