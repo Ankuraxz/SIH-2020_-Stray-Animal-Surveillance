@@ -1,0 +1,491 @@
+{
+  "Android" : {
+    "user1" : "29.970577,76.888952",
+    "user2" : "29.966497,76.878921",
+    "user3" : "29.963978,76.872065",
+    "user4" : "29.964117,76.862463",
+    "user5" : "29.972588,76.872155",
+    "user6" : "29.972407,76.868620",
+    "user7" : "29.966152,76.862376"
+  },
+  "Cam_info" : {
+    "cam1" : "29.965042,76.87523",
+    "cam2" : "29.965243,76.868683",
+    "cam3" : "29.965109,76.875464",
+    "cam4" : "29.964275,76.865226"
+  },
+  "Users" : {
+    "CBQWzBZOpgYZ6s7s2mtZYjC6jzh1" : {
+      "address" : "India",
+      "country" : "India",
+      "fName" : "SIH",
+      "gender" : "male",
+      "phone" : "1234567890",
+      "sName" : "2020"
+    },
+    "DHR0AddGHmMJuUqOaW1ytV3Rcqk2" : {
+      "address" : "H.no 589, Sec 2",
+      "country" : "India",
+      "fName" : "Ankur",
+      "gender" : "male",
+      "phone" : "9996492589",
+      "sName" : "verma"
+    },
+    "fNVc5gi3HugyOjjmUjkNlyy6vmL2" : {
+      "address" : "Rohtak",
+      "country" : "India",
+      "fName" : "Rishabh",
+      "gender" : "male",
+      "phone" : "7404533915",
+      "sName" : "Jain"
+    },
+    "qiw2SAXOXmOkJE7saK2CI2zW3N42" : {
+      "address" : "Rohtak",
+      "country" : "India",
+      "fName" : "Rishabh",
+      "gender" : "male",
+      "phone" : "7404533915",
+      "sName" : "Jain"
+    }
+  },
+  "cam1" : {
+    "-MDFZ5cfx_FwzxSUch1P" : {
+      "Date" : "2020-07-27",
+      "Probability" : 80.9039533,
+      "S" : 0,
+      "Time" : "19:26:43",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZ5cfx_FwzxSUch1P.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZ8UO5Np_EOXsTvRp" : {
+      "Date" : "2020-07-27",
+      "Probability" : 70.59896,
+      "S" : 0,
+      "Time" : "19:26:56",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZ8UO5Np_EOXsTvRp.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZBE38D6DZVgR5CRe" : {
+      "Date" : "2020-07-27",
+      "Probability" : 79.42904,
+      "S" : 0,
+      "Time" : "19:27:08",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZBE38D6DZVgR5CRe.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZDfESX6VvLwNhTKU" : {
+      "Date" : "2020-07-27",
+      "Probability" : 78.15022,
+      "S" : 0,
+      "Time" : "19:27:19",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZDfESX6VvLwNhTKU.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZGLcyOmDKlj6ntyJ" : {
+      "Date" : "2020-07-27",
+      "Probability" : 78.7166238,
+      "S" : 0,
+      "Time" : "19:27:29",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZGLcyOmDKlj6ntyJ.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZIneVInZf1mzeS7f" : {
+      "Date" : "2020-07-27",
+      "Probability" : 85.69729000000001,
+      "S" : 0,
+      "Time" : "19:27:40",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZIneVInZf1mzeS7f.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZLXbXDbOa1m3hzt-" : {
+      "Date" : "2020-07-27",
+      "Probability" : 89.00621530000001,
+      "S" : 0,
+      "Time" : "19:27:50",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZLXbXDbOa1m3hzt-.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZNzlZgKwFz_dUW0U" : {
+      "Date" : "2020-07-27",
+      "Probability" : 88.79292,
+      "S" : 0,
+      "Time" : "19:28:01",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZNzlZgKwFz_dUW0U.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZQfvuKZag1SVHKrg" : {
+      "Date" : "2020-07-27",
+      "Probability" : 83.9259744,
+      "S" : 0,
+      "Time" : "19:28:11",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZQfvuKZag1SVHKrg.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZT6kAlh2A8UKcSaC" : {
+      "Date" : "2020-07-27",
+      "Probability" : 88.43896,
+      "S" : 0,
+      "Time" : "19:28:22",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZT6kAlh2A8UKcSaC.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZVeD8gDzyU9evn8m" : {
+      "Date" : "2020-07-27",
+      "Probability" : 88.04024,
+      "S" : 0,
+      "Time" : "19:28:32",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZVeD8gDzyU9evn8m.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFZY2na8sXO6MDv2Ks" : {
+      "Date" : "2020-07-27",
+      "Probability" : 81.45731,
+      "S" : 0,
+      "Time" : "19:28:42",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDFZY2na8sXO6MDv2Ks.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDJmDJPJ1qjrcL94w4Q" : {
+      "Date" : "2020-07-28",
+      "Probability" : 97.72922000000001,
+      "S" : 0,
+      "Time" : "15:06:29",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDJmDJPJ1qjrcL94w4Q.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDJn8tB-KeuImyCflxS" : {
+      "Date" : "2020-07-28",
+      "Probability" : 97.72922000000001,
+      "S" : 0,
+      "Time" : "15:10:55",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDJn8tB-KeuImyCflxS.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDJoKVgTvJnCkTj3MGN" : {
+      "Date" : "2020-07-28",
+      "Probability" : 97.72922000000001,
+      "S" : 0,
+      "Time" : "15:16:04",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDJoKVgTvJnCkTj3MGN.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDJos31p0WFsaWYA_DP" : {
+      "Date" : "2020-07-28",
+      "Probability" : 97.729,
+      "S" : 0,
+      "Time" : "15:18:29",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam1-MDJos31p0WFsaWYA_DP.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    }
+  },
+  "cam2" : {
+    "-MDF_9yIY2NN5uM7Fuy-" : {
+      "Date" : "2020-07-27",
+      "Probability" : 63.36248,
+      "S" : 0,
+      "Time" : "19:31:24",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam2-MDF_9yIY2NN5uM7Fuy-.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDF_BsfK5mSOeHxKN93" : {
+      "Date" : "2020-07-27",
+      "Probability" : 72.7010846,
+      "S" : 0,
+      "Time" : "19:31:34",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam2-MDF_BsfK5mSOeHxKN93.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFgOVV6eJfd_qWTpHj" : {
+      "Date" : "2020-07-27",
+      "Probability" : 60.7963562,
+      "S" : 0,
+      "Time" : "20:02:59",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam2-MDFgOVV6eJfd_qWTpHj.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFgT3It3QvBGcOm2m5" : {
+      "Date" : "2020-07-27",
+      "Probability" : 67.7904844,
+      "S" : 0,
+      "Time" : "20:03:19",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam2-MDFgT3It3QvBGcOm2m5.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    }
+  },
+  "cam3" : {
+    "-MDFb0R-E-0OJ-Xvx0wN" : {
+      "Date" : "2020-07-27",
+      "Probability" : 94.46163,
+      "S" : 0,
+      "Time" : "19:39:28",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFb0R-E-0OJ-Xvx0wN.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFb1BgQFlxmBXUyPfd" : {
+      "Date" : "2020-07-27",
+      "Probability" : 62.2947633,
+      "S" : 0,
+      "Time" : "19:39:28",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFb1BgQFlxmBXUyPfd.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFb3cZ9PIiAVi7TDeX" : {
+      "Date" : "2020-07-27",
+      "Probability" : 97.16440440000001,
+      "S" : 0,
+      "Time" : "19:39:44",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFb3cZ9PIiAVi7TDeX.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFb67mBIFXq_27VDwt" : {
+      "Date" : "2020-07-27",
+      "Probability" : 98.4846354,
+      "S" : 0,
+      "Time" : "19:39:54",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFb67mBIFXq_27VDwt.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFb8i5QSQ9IqfwGeN9" : {
+      "Date" : "2020-07-27",
+      "Probability" : 98.45783999999999,
+      "S" : 0,
+      "Time" : "19:40:04",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFb8i5QSQ9IqfwGeN9.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFbBFftF231Qd4Lxra" : {
+      "Date" : "2020-07-27",
+      "Probability" : 95.9733248,
+      "S" : 0,
+      "Time" : "19:40:15",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFbBFftF231Qd4Lxra.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFbBwgKGTZdf-UBayT" : {
+      "Date" : "2020-07-27",
+      "Probability" : 64.46452000000001,
+      "S" : 0,
+      "Time" : "19:40:15",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFbBwgKGTZdf-UBayT.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFbENDsnjKzjKx3umS" : {
+      "Date" : "2020-07-27",
+      "Probability" : 96.3112,
+      "S" : 0,
+      "Time" : "19:40:28",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFbENDsnjKzjKx3umS.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFbGvKb6sznTToNF6Y" : {
+      "Date" : "2020-07-27",
+      "Probability" : 87.77906300000001,
+      "S" : 0,
+      "Time" : "19:40:38",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam3-MDFbGvKb6sznTToNF6Y.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    }
+  },
+  "cam4" : {
+    "-MD8omP9zaalgDVjru_B" : {
+      "Date" : "2020-07-26",
+      "Probability" : 80.9039533,
+      "S" : 0,
+      "Time" : "12:02:19",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8omP9zaalgDVjru_B.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8ooty5AlUSl-w_7f8" : {
+      "Date" : "2020-07-26",
+      "Probability" : 70.59896,
+      "S" : 0,
+      "Time" : "12:02:30",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8ooty5AlUSl-w_7f8.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8orNaBzNx2fRkKHBJ" : {
+      "Date" : "2020-07-26",
+      "Probability" : 79.42904,
+      "S" : 0,
+      "Time" : "12:02:40",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8orNaBzNx2fRkKHBJ.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8otqa8qROPS7_gBmb" : {
+      "Date" : "2020-07-26",
+      "Probability" : 78.15022,
+      "S" : 0,
+      "Time" : "12:02:50",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8otqa8qROPS7_gBmb.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8owGnyuxz5vWXio70" : {
+      "Date" : "2020-07-26",
+      "Probability" : 78.7166238,
+      "S" : 0,
+      "Time" : "12:03:00",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8owGnyuxz5vWXio70.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8oymkhTWJ2KoX_RJT" : {
+      "Date" : "2020-07-26",
+      "Probability" : 85.69729000000001,
+      "S" : 0,
+      "Time" : "12:03:10",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8oymkhTWJ2KoX_RJT.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8p0kYruhAC5992uD3" : {
+      "Date" : "2020-07-26",
+      "Probability" : 89.00621530000001,
+      "S" : 0,
+      "Time" : "12:03:21",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8p0kYruhAC5992uD3.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8rPiEJAtL5CIemRAu" : {
+      "Date" : "2020-07-26",
+      "Probability" : 80.9039533,
+      "S" : 0,
+      "Time" : "12:13:48",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8rPiEJAtL5CIemRAu.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8rSj5vsUdULLYbdJF" : {
+      "Date" : "2020-07-26",
+      "Probability" : 70.59896,
+      "S" : 0,
+      "Time" : "12:14:01",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8rSj5vsUdULLYbdJF.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MD8rVQvpKzXdyye9GfR" : {
+      "Date" : "2020-07-26",
+      "Probability" : 79.42904,
+      "S" : 0,
+      "Time" : "12:14:13",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MD8rVQvpKzXdyye9GfR.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcRhyAeIF_Ra8iFAX" : {
+      "Date" : "2020-07-27",
+      "Probability" : 94.46163,
+      "S" : 0,
+      "Time" : "19:45:46",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcRhyAeIF_Ra8iFAX.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcSOJ4j0wz6j5dl7s" : {
+      "Date" : "2020-07-27",
+      "Probability" : 62.2947633,
+      "S" : 0,
+      "Time" : "19:45:46",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcSOJ4j0wz6j5dl7s.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcUUJzz-lcpo4e1fr" : {
+      "Date" : "2020-07-27",
+      "Probability" : 97.16440440000001,
+      "S" : 0,
+      "Time" : "19:45:57",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcUUJzz-lcpo4e1fr.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcWVe4UywkNYQMsJ_" : {
+      "Date" : "2020-07-27",
+      "Probability" : 98.4846354,
+      "S" : 0,
+      "Time" : "19:46:06",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcWVe4UywkNYQMsJ_.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcYvMZmKUPtLffui1" : {
+      "Date" : "2020-07-27",
+      "Probability" : 98.45783999999999,
+      "S" : 0,
+      "Time" : "19:46:14",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcYvMZmKUPtLffui1.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFc_uiA9e30A7ROcyB" : {
+      "Date" : "2020-07-27",
+      "Probability" : 95.9733248,
+      "S" : 0,
+      "Time" : "19:46:24",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFc_uiA9e30A7ROcyB.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcagFn6OiFOPJuhAh" : {
+      "Date" : "2020-07-27",
+      "Probability" : 64.46452000000001,
+      "S" : 0,
+      "Time" : "19:46:24",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcagFn6OiFOPJuhAh.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcciByH9cL0EWpGzE" : {
+      "Date" : "2020-07-27",
+      "Probability" : 96.3112,
+      "S" : 0,
+      "Time" : "19:46:35",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcciByH9cL0EWpGzE.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFcfCt_1A1K1bSXWhu" : {
+      "Date" : "2020-07-27",
+      "Probability" : 87.77906300000001,
+      "S" : 0,
+      "Time" : "19:46:44",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFcfCt_1A1K1bSXWhu.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFfWs0dADXYKB9UTKH" : {
+      "Date" : "2020-07-27",
+      "Probability" : 87.07301,
+      "S" : 0,
+      "Time" : "19:59:13",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFfWs0dADXYKB9UTKH.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFfYoJI2aWCBh5XKO5" : {
+      "Date" : "2020-07-27",
+      "Probability" : 67.02655,
+      "S" : 0,
+      "Time" : "19:59:22",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFfYoJI2aWCBh5XKO5.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFf_WT56Ld8g9gpkYo" : {
+      "Date" : "2020-07-27",
+      "Probability" : 68.24675,
+      "S" : 0,
+      "Time" : "19:59:29",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFf_WT56Ld8g9gpkYo.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFfbDcJ-WxypYhDkhU" : {
+      "Date" : "2020-07-27",
+      "Probability" : 75.0176549,
+      "S" : 0,
+      "Time" : "19:59:36",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFfbDcJ-WxypYhDkhU.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFfd-f1Y0dfJfIwjIn" : {
+      "Date" : "2020-07-27",
+      "Probability" : 90.63704609999999,
+      "S" : 0,
+      "Time" : "19:59:43",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFfd-f1Y0dfJfIwjIn.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    },
+    "-MDFfegHVm135LPwoHDs" : {
+      "Date" : "2020-07-27",
+      "Probability" : 88.3669,
+      "S" : 0,
+      "Time" : "19:59:50",
+      "URL" : "https://firebasestorage.googleapis.com/v0/b/aghanya-test-py.appspot.com/o/cam4-MDFfegHVm135LPwoHDs.jpg?alt=media&token=token",
+      "tag" : "Cow"
+    }
+  }
+}
